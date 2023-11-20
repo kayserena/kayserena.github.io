@@ -1,0 +1,10 @@
+---
+title: "My SECOND blog post"
+description: "This is my SECOND ever blog post!"
+author: "Kayla Esser"
+date: "11/20/2023"
+categories:
+- R code
+---
+
+Hi Katherine \<3

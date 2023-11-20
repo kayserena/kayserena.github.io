@@ -1,0 +1,32 @@
+---
+title: "Kayla Esser"
+about:
+  template: solana
+  image: images/me.jpg
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.ca/citations?user=lDzvX-oAAAAJ&hl=en&oi=ao
+    - icon: book
+      text: ResearchGate
+      href: https://www.researchgate.net/profile/Kayla-Esser
+    - icon: github
+      text: Github
+      href: https://github.com/kayserena
+---
+
+::: {#hero-heading}
+Kayla Esser is a graduate student at the Dalla Lana School of Public Health. She is currently a research manager at SickKids, as well as a work-study student at the Centre for Vaccine Preventable Diseases.
+
+## Education
+
+University of Toronto \| Toronto, ON\
+Master of Public Health in Epidemiology \| Sept 2022 - June 2024
+
+McMaster University \| Hamilton, ON\
+Bachelor of Arts and Science and Psychology, Neuroscience and Behaviour \| Sept 2013 - June 2018
+
+## Experience
+
+The Hospital for Sick Children \| Clinical Research Project Manager \| June 2020 - present
+:::

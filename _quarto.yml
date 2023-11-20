@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Kayla Esser"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - presentations.qmd
+      - experience.qmd
+      - funding.qmd
+      - blog.qmd
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+editor: visual
+
+execute:
+  freeze: auto
