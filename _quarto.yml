@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Kayla Esser"
+  favicon: images/fav.png
   navbar:
     left:
       - href: index.qmd
