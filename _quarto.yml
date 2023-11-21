@@ -9,11 +9,16 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - research.qmd
-      - presentations.qmd
-      - experience.qmd
-      - funding.qmd
-      - blog.qmd
+      - href: research.qmd
+        text: Research publications
+      - href: presentations.qmd
+        text: Presentations
+      - href: experience.qmd
+        text: Experience
+      - href: funding.qmd
+        text: Funding
+      - href: blog.qmd
+        text: Blog
 
 format:
   html:
