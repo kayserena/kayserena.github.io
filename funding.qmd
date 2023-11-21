@@ -8,7 +8,7 @@ title: "Grants"
 
  
 
-<a href="https://leongcentre.utoronto.ca/current-studentship-award-recipients">**Leong Centre Studentship Award**</a>**, Edwin S.H. Leong Centre for Healthy Children**
+<a href="https://leongcentre.utoronto.ca/current-studentship-award-recipients">**Studentship Award**</a>**, Edwin S.H. Leong Centre for Healthy Children**
 
 \$15 000, Oct 2023 - June 2024
 
@@ -20,9 +20,9 @@ title: "Grants"
 
 Project: Coached, Coordinated, Enhanced Neonatal Transition (Phase 2)
 
-Primary investigator: Dr. Julia Orkin
+Role: Research manager, co-author
 
-My role: Research manager, co-author
+Primary investigator: Dr. Julia Orkin
 
  
 
@@ -32,6 +32,6 @@ My role: Research manager, co-author
 
 Project: Caring for the Caregiver (C4C): Psychiatric Support Model for Parents of Children with Medical Complexity
 
-Primary investigator: Dr. Julia Orkin
+Role: Research manager, co-author
 
-My role: Research manager, co-author
+Primary investigator: Dr. Julia Orkin

@@ -2,7 +2,7 @@
 title: "Presentations"
 ---
 
-## Research posters (selected)
+#### Research posters (selected)
 
 Cheung T, **Esser K**, Cost K, Korczak D, Anagnostou E, Birken C, Charach A, Monga S, Crosbie J. Comparison of Data Substitution Methods for Missing Data in a Longitudinal Study. *Canadian Psychological Association Annual Convention*. Toronto, Canada. Jun 23-25, 2023.
 
@@ -16,7 +16,7 @@ Hassan D, **Esser K**, Orkin J, Oberlander T, Siden H, Cohen E, Diskin C. Manage
 
 **Esser K**, Parmar A, Major N, Church P, Cohen E, Orkin J. Coach, Coordinated, Enhanced Neonatal Transition: intervention development for nurse-delivered Acceptance and Commitment Therapy. Poster presented at: Precision and Personalization in Child and Youth Mental Health. Research Psychiatry Day; 2020 Feb 7; Toronto, Canada.
 
-## Talks
+#### Talks
 
 **Esser K**, Moore C, and Orkin J. "Housing Need Amongst Children with Medical Complexity: A Cross-Sectional Descriptive Study of Three Populations" at Endocrine Research Team Meeting, The Hospital for Sick Children, 12 January 2021.
 
